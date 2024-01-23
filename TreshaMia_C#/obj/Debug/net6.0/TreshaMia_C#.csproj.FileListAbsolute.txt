@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\bin\Debug\net6.0\TreshaMia_C#.exe
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\bin\Debug\net6.0\TreshaMia_C#.deps.json
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\bin\Debug\net6.0\TreshaMia_C#.runtimeconfig.json
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\bin\Debug\net6.0\TreshaMia_C#.dll
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\bin\Debug\net6.0\TreshaMia_C#.pdb
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\obj\Debug\net6.0\TreshaMia_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\obj\Debug\net6.0\TreshaMia_C#.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\obj\Debug\net6.0\TreshaMia_C#.AssemblyInfo.cs
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\obj\Debug\net6.0\TreshaMia_C#.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\obj\Debug\net6.0\TreshaMia_C#.dll
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\obj\Debug\net6.0\refint\TreshaMia_C#.dll
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\obj\Debug\net6.0\TreshaMia_C#.pdb
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\obj\Debug\net6.0\TreshaMia_C#.genruntimeconfig.cache
+C:\Users\Administrator\Documents\upwork\TreshaMia_C#\obj\Debug\net6.0\ref\TreshaMia_C#.dll
